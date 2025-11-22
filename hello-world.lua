@@ -1,5 +1,6 @@
 local function hello(who)
 	print("hello " .. who)
+	print("what else?")
 end
 
 hello("alic")
